@@ -1,4 +1,4 @@
-examples
-========
+PiClass code examples
+=====================
 
-PiClass Python, SHell &amp; Scratch code examples repository
+PiClass Python and SHell code examples repository
