@@ -1,4 +1,4 @@
 PiClass code examples
 =====================
 
-PiClass Python and SHell code examples repository
+PiClass HTML/CSS, Python and SHell code examples repository
