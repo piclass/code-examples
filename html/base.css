@@ -1,0 +1,19 @@
+/* PiClass CSS Style base example */
+
+body { margin: 0; }
+h1 { color: #215090; }
+
+header {
+	height: 30px;
+	background: #215090;
+}
+
+section {
+	margin: 20px;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	border-top: 1px solid #ddd;
+}
